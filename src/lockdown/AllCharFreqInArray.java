@@ -15,6 +15,7 @@ public class AllCharFreqInArray {
 				for (int i=0; i<input.length(); i++) {
 					if(input.charAt(i)==ch)
 						count++;
+					
 					}
 				System.out.println("Total number of "+ch+" in name "+input+" is "+count);
 				}
