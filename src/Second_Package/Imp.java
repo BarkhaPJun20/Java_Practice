@@ -8,6 +8,8 @@ public class Imp {
 		
 		String s1="Barkha is my name ";
 		System.out.println(s1.indexOf("is"));
+		
+		
 	}
 
 }
